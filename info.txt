@@ -1,0 +1,15 @@
+
+set active link in JavaScript
+
+Selecting this option adds a class - active
+
+
+
+
+
+
+
+
+
+
+
