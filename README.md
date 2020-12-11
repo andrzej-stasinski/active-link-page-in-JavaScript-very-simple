@@ -1,4 +1,4 @@
-## Active link page in JavaScript
+## Active link page in JavaScript - education part
 
 #### Features
 
